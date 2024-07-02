@@ -1,0 +1,2 @@
+ALTER TABLE usuarios RENAME COLUMN seha TO senha;
+ALTER TABLE usuarios ALTER COLUMN senha SET NOT NULL;

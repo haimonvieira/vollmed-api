@@ -1,0 +1,3 @@
+As classes Controller representam a API
+- Onde é mapeado os endpoints
+- Configurar a requisicao, protocolo, validacao do bean, verbo, parametros
