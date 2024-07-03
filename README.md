@@ -10,4 +10,4 @@
 -  FlywayDB
 -  JWT
 -  Jackson Databind
--  
+-  JUnit
