@@ -5,3 +5,9 @@
 -  Spring Security
 -  JPA
 -  PostgreSQL
+-  Lombok
+-  Devtools
+-  FlywayDB
+-  JWT
+-  Jackson Databind
+-  
